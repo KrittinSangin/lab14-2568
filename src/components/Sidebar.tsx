@@ -35,13 +35,13 @@ export default function Sidebar() {
             size={12}
             offset={7}
             position="bottom-end"
-            color="red"
+            color="green"
             withBorder
           >
-            <Avatar size="md" radius="xl" src="/charliebrown.jpg" />
+            <Avatar size="md" radius="xl" src="/Oerm.jpg" />
           </Indicator>
           <Text component={RouterNavLink} to="/">
-            User : Chanadda : Admin
+            User : Krittin : Student
           </Text>
         </Group>
       </Box>
